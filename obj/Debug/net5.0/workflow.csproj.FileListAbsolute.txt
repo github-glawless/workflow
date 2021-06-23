@@ -1,0 +1,16 @@
+C:\Users\glawless\nelnet-projects\workflow\bin\Debug\net5.0\workflow.exe
+C:\Users\glawless\nelnet-projects\workflow\bin\Debug\net5.0\workflow.deps.json
+C:\Users\glawless\nelnet-projects\workflow\bin\Debug\net5.0\workflow.runtimeconfig.json
+C:\Users\glawless\nelnet-projects\workflow\bin\Debug\net5.0\workflow.runtimeconfig.dev.json
+C:\Users\glawless\nelnet-projects\workflow\bin\Debug\net5.0\workflow.dll
+C:\Users\glawless\nelnet-projects\workflow\bin\Debug\net5.0\ref\workflow.dll
+C:\Users\glawless\nelnet-projects\workflow\bin\Debug\net5.0\workflow.pdb
+C:\Users\glawless\nelnet-projects\workflow\obj\Debug\net5.0\workflow.csproj.AssemblyReference.cache
+C:\Users\glawless\nelnet-projects\workflow\obj\Debug\net5.0\workflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glawless\nelnet-projects\workflow\obj\Debug\net5.0\workflow.AssemblyInfoInputs.cache
+C:\Users\glawless\nelnet-projects\workflow\obj\Debug\net5.0\workflow.AssemblyInfo.cs
+C:\Users\glawless\nelnet-projects\workflow\obj\Debug\net5.0\workflow.csproj.CoreCompileInputs.cache
+C:\Users\glawless\nelnet-projects\workflow\obj\Debug\net5.0\workflow.dll
+C:\Users\glawless\nelnet-projects\workflow\obj\Debug\net5.0\ref\workflow.dll
+C:\Users\glawless\nelnet-projects\workflow\obj\Debug\net5.0\workflow.pdb
+C:\Users\glawless\nelnet-projects\workflow\obj\Debug\net5.0\workflow.genruntimeconfig.cache
